@@ -1,0 +1,12 @@
+
+agregar cambios 
+
+lo primero es ubicar en el repositorio
+dar click derecho gitbash 
+
+comandos
+
+git add .
+git commit -m "jueves actualizado"
+git push origin main
+
